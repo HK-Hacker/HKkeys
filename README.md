@@ -1,4 +1,4 @@
-# terkey
+# HK Hacker
 Termux keys shortcut
 
 # usage
